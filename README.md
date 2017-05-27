@@ -1,1 +1,3 @@
-# interesting_blogs
+# Interesting Blogs
+
+https://blogs.msdn.microsoft.com/oldnewthing/
